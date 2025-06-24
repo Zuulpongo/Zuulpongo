@@ -1,9 +1,10 @@
-## Hey 👋
+## Yo
 
-I am a primarily self-taught casual programmer.
-I am experienced with the programming languages Zig, C++, and Lua.
-I have also used luau (an extension of Lua) in Roblox Studio to create experiences.
-I am particularly interested in game development and the design of programming languages.
+* I am a primarily self-taught programmer.
+* I am experienced with the programming languages Zig, C, C++, Java, and Lua (I have touched on various other languages from time to time).
+* I have also used luau (an extension of Lua) in Roblox Studio to create experiences.
+* I hate web development.
+* I am particularly interested in game development and the design of programming languages.
 
 <!--
 **Zuulpongo/Zuulpongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
