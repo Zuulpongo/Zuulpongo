@@ -1,5 +1,3 @@
-## Yo
-
 * I am a primarily self-taught programmer.
 * I am experienced with the programming languages Zig, C, C++, Java, and Lua (I have touched on various other languages from time to time).
 * I have also used luau (an extension of Lua) in Roblox Studio to create experiences.
